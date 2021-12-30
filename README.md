@@ -2,9 +2,6 @@
 Final versoin: https://kcwu229.github.io/
 
 Preview:
-![mobile view](https://user-images.githubusercontent.com/79691025/147740981-265007da-0dc0-4824-bea8-e32c49045440.jpg)
-&
-  - PC website version <br>
   - ![large](https://user-images.githubusercontent.com/79691025/147740998-de197c46-3d4a-4837-9655-f1fc1901fb95.PNG)
 ## This is made for the Web Design for Everybody: Basics of Web Development & Coding course specialized certicification in Coursera (Study Purpose)
 ### At the last period, I decided to use bootstrap to make build the webpage as its convenient and diversified functions supplied.
